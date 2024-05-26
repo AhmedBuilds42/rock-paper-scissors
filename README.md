@@ -1,0 +1,1 @@
+"Rock Paper Scissors Game: A simple yet engaging web-based Rock Paper Scissors game built using HTML, CSS, and JavaScript. Test your luck and strategy against the computer with this classic hand gesture game. Enjoy sleek design and smooth animations while having fun playing one of the most popular games of all time right in your browser!"
